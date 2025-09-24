@@ -18,7 +18,7 @@ In Salesforce we can create, manage and customise both applications according to
 ## PROCEDURE
 
 ### Step 1: Log into your developer
-<img width="700" height="500" alt="Screenshot 2025-09-24 160308" src="https://github.com/user-attachments/assets/432bccde-4976-439a-a7ba-4b0766d68d6d" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/c91cd061-c287-4b0f-aa52-5eb83d886e0c" />
 
 
 ### Step 2: Click the Setup Link (upper-right corner).
